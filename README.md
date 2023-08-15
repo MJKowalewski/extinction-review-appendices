@@ -6,7 +6,7 @@ Kowalewski M, Nawrot R, Scarponi D, Tomašových A, Zuschin M (2023) Marine cons
 
 The following appendices are included:
 
-appendix 2.csv - Appendix 2. IUCN Red List status of species from four invertebrate phyla (IUCN 2023). A csv-formatted file.
+appendix 2.zip - Appendix 2. IUCN Red List status of species from four invertebrate phyla (IUCN 2023). A csv-formatted file (zip compressed).
 
 appendix 3.csv - Appendix 3. IUCN Red List of species from four invertebrate phyla (IUCN 2023). A csv-formatted file
 
