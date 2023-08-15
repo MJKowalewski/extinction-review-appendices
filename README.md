@@ -2,7 +2,7 @@
 Appendices for Kowalewski et al. Extinctions 2023
 
 This repository contains appendices for the following publication:
-Kowalewski M, Nawrot R, Scarponi D, Tomašových A, Zuschin M (2023) Marine conservation palaeobiology: What does the late Quaternary fossil record tell us about modern-day extinctions and biodiversity threats? Extinction, revised manuscript.
+Kowalewski M, Nawrot R, Scarponi D, Tomašových A, Zuschin M (2023) Marine conservation palaeobiology: What does the late Quaternary fossil record tell us about modern-day extinctions and biodiversity threats? Cambridge Prisms: Extinction, revised manuscript, submitted 8/15/2023.
 
 The following appendices are included:
 
